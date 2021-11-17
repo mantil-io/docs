@@ -47,11 +47,11 @@ mv mantil /usr/local/bin
 We suggest to check out "Getting started" and familiarize yourself with "General Concepts."
 
 The documentation is divided into several sections:
-* [Getting Started](getting_started)
-* [General Concepts](project_structure)
-* [Mantil CLI Commands](commands/index)
-* [Project Templates](templates/index)
-* [Troubleshooting and support](troubleshooting)
+* [Getting Started](getting_started.md)
+* [General Concepts](project_structure.md)
+* [Mantil CLI Commands](commands/index.md)
+* [Project Templates](templates/excuses.md)
+* [Troubleshooting and support](troubleshooting.md)
 
 # License
 
