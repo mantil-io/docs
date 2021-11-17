@@ -26,9 +26,34 @@ brew tap mantil-io/mantil
 brew install mantil
 ```
 
-## Download (Linux, Windows and Mac)
+## Direct Download (Linux, Windows and Mac)
 
-Below are the available downloads for the latest version of Mantil (0.1.20). Please download the proper package for your operating system and architecture.
+Below are the available downloads for the latest version of Mantil (0.1.20). Please download the right package for your operating system and architecture.
 
-Mantil is distributed as a single binary. Install Mantil by extracting it and moving it to a directory included in your system’s PATH .
+Mantil is distributed as a single binary. Install Mantil by extracting it and moving it to a directory included in your system's PATH .
+
+**TODO: Add direct download links for all platforms.**
+
+### An example for Linux x86_64
+
+```
+wget https://s3.eu-central-1.amazonaws.com/releases.mantil.io/v{{< current_version >}}/mantil_{{< current_version >}}_Linux_x86_64.tar.gz
+tar xvfz mantil_{{< current_version >}}_Linux_x86_64.tar.gz
+mv mantil /usr/local/bin
+```
+
+# Documentation
+
+We suggest to check out "Getting started" and familiarize yourself with "General Concepts."
+
+The documentation is divided into several sections:
+* [Getting Started](getting_started)
+* [General Concepts](project_structure)
+* [Mantil CLI Commands](commands/index)
+* [Project Templates](templates/index)
+* [Troubleshooting and support](troubleshooting)
+
+# License
+
+This documentation is licensed under Creative Commons (CC BY-SA 4.0).
 
