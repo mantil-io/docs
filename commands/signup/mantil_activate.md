@@ -1,10 +1,4 @@
----
-title: "mantil activate"
-linkTitle: "activate"
-weight: 2
-description: Activate Mantil application
-hide_summary: false
----
+# mantil activate
 
 Activate Mantil application
 

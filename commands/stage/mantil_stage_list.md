@@ -1,10 +1,4 @@
----
-title: "mantil stage list"
-linkTitle: "stage list"
-weight: 10
-description: List stages in project
-hide_summary: false
----
+# mantil stage list
 
 List stages in project
 

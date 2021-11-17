@@ -1,10 +1,3 @@
----
-title: "Getting Started"
-linkTitle: "Getting Started"
-weight: 2
-description: From Zero to Mantil Hero
----
-
 ## Setup
 
 Beside Mantil cli you will need access to an AWS account. AWS credentials are

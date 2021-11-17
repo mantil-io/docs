@@ -1,9 +1,4 @@
----
-title: "mantil aws nodes"
-linkTitle: "aws nodes"
-weight: 3
-description: List Mantil aws nodes
----
+# mantil aws nodes
 
 List Mantil aws nodes
 

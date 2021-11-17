@@ -1,10 +1,4 @@
----
-title: "mantil invoke"
-linkTitle: "invoke"
-weight: 8
-description: Invoke api method for current project and stage
-hide_summary: false
----
+# mantil invoke
 
 Invoke api method for current project and stage
 

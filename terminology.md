@@ -1,10 +1,4 @@
----
-title: "Mantil Terminology"
-linkTitle: "Terminology"
-weight: 4
-description: Define Mantil Ubiquitous Language
----
-
+# Terminology
 
 - Node - Mantil installation in a region of an AWS account
 - Project - your Go code structured as Mantil project

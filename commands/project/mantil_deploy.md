@@ -1,10 +1,4 @@
----
-title: "mantil deploy"
-linkTitle: "deploy"
-weight: 7
-description: Deploys updates to stages
-hide_summary: false
----
+# mantil deploy
 
 Deploys updates to stages
 

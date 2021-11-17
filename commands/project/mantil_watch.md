@@ -1,10 +1,4 @@
----
-title: "mantil watch"
-linkTitle: "watch"
-weight: 9
-description: Watch for file changes and automatically deploy them
-hide_summary: false
----
+# mantil watch
 
 Watch for file changes and automatically deploy them
 

@@ -1,12 +1,3 @@
----
-title: "Testing"
-linkTitle: "Testing"
-weight: 4
-description: Explains types of testing in Mantil project
----
-
-
-
 ### Unit tests
 
 Your API's in Mantil are pure Go code. They don't have anything AWS or Lambda

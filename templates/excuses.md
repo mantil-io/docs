@@ -1,10 +1,4 @@
----
-title: "Excuses"
-linkTitle: "Excuses"
-weight: 1
-description: >
-  High quality source of developer excuses 
----
+# Excuses Template
 
 ## About
 

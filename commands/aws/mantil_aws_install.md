@@ -1,10 +1,4 @@
----
-title: "mantil aws install"
-linkTitle: "aws install"
-weight: 1
-description: Install Mantil into AWS account
-hide_summary: false
----
+# mantil aws install
 
 Install Mantil into AWS account
 

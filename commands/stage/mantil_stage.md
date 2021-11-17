@@ -1,8 +1,4 @@
----
-toc_hide: true
-hide_summary: true
-description: Manage project stages
----
+# mantil stage
 
 Manage project stages
 

@@ -1,9 +1,4 @@
----
-title: "Project Structure"
-linkTitle: "Project Structure"
-weight: 3
-description: Describes Mantil project folders structure
----
+# Project Structure
 
 This is example Mantil project structure with two API's: ping and second.
 

@@ -1,10 +1,4 @@
----
-title: "mantil new"
-linkTitle: "new"
-weight: 3
-description: Initializes a new Mantil project
-hide_summary: false
----
+# mantil new
 
 Initializes a new Mantil project
 

@@ -1,8 +1,4 @@
----
-toc_hide: true
-hide_summary: true
-description: Automatically generate code in the project
----
+# mantil generate
 
 Automatically generate code in the project
 

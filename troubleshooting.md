@@ -1,10 +1,4 @@
----
-title: "Troubleshooting"
-linkTitle: "Troubleshooting"
-weight: 5
-description: For any issues related to Mantil, this is the place to start.
----
-
+# Troubleshooting
 
 How to get application logs?
 

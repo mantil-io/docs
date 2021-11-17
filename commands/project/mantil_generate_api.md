@@ -1,10 +1,4 @@
----
-title: "mantil generate api"
-linkTitle: "generate api"
-weight: 4
-description: Generate Go code for a new API
-hide_summary: false
----
+# mantil generate api
 
 Generate Go code for new API
 

@@ -1,10 +1,3 @@
----
-title: "Credits"
-linkTitle: "Credits"
-weight: 10
-description: Tools and libraries we used to build Mantil
----
-
 **Mantil uses Open Source components. We acknowledge and are grateful to these developer for their contributions to open source.**
 
 ### Tools

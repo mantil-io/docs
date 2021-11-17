@@ -1,10 +1,4 @@
----
-title: "mantil logs"
-linkTitle: "logs"
-weight: 11
-description: Fetch logs for a specific function/api
-hide_summary: false
----
+# mantil logs
 
 Fetch logs for a specific function/api
 

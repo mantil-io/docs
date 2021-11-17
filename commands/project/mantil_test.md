@@ -1,10 +1,4 @@
----
-title: "mantil test"
-linkTitle: "test"
-weight: 10
-description: Run project integration tests
-hide_summary: false
----
+# mantil test
 
 Run project integration tests
 

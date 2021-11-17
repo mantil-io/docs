@@ -1,10 +1,4 @@
----
-title: "mantil stage destroy"
-linkTitle: "stage destroy"
-weight: 6
-description: Destroy a stage
-hide_summary: false
----
+# mantil stage destroy
 
 Destroy a stage
 

@@ -1,10 +1,4 @@
----
-title: "mantil stage use"
-linkTitle: "stage use"
-weight: 11
-description: Set default project stage
-hide_summary: false
----
+# mantil stage use
 
 Set default project stage
 

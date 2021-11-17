@@ -1,10 +1,3 @@
----
-title: "Installing"
-linkTitle: "Installing"
-weight: 1
-description: How to install Mantil command line interface
----
-
 ## Mac
 
 Use [Homebrew](https://brew.sh) to install latest version:

@@ -1,10 +1,4 @@
----
-title: "mantil env"
-linkTitle: "env"
-weight: 12
-description: Export project environment variables
-hide_summary: false
----
+# mantil env
 
 Export project environment variables
 for use in other shell commands.

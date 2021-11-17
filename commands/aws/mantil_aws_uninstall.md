@@ -1,10 +1,4 @@
----
-title: "mantil aws uninstall"
-linkTitle: "aws uninstall"
-weight: 2
-description: Uninstall Mantil from AWS account
-hide_summary: false
----
+# mantil aws uninstall
 
 Uninstall Mantil from AWS account
 

@@ -1,8 +1,4 @@
----
-toc_hide: true
-hide_summary: true
-description: AWS node subcommand
----
+# mantil aws
 
 AWS node subcommand
 

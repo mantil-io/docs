@@ -1,10 +1,4 @@
----
-title: "mantil stage new"
-linkTitle: "stage new"
-weight: 5
-description: Create a new stage
-hide_summary: false
----
+# mantil stage new
 
 Create a new stage
 

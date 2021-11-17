@@ -1,10 +1,4 @@
----
-title: "mantil register"
-linkTitle: "register"
-weight: 1
-description: Register Mantil application
-hide_summary: false
----
+# mantil register
 
 Register Mantil application
 
