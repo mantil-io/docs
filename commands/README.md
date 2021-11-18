@@ -2,14 +2,14 @@
 
 Mantil command line interface commands.
 
-[Signup](signup/index.md)
+[Signup](signup/README.md)
 Singup process related commands
 
-[AWS](aws/index.md)
+[AWS](aws/README.md)
 AWS account related commands
 
-[Stage](stage/index.md)
+[Stage](stage/README.md)
 Stage related commands
 
-[Project](project/index.md)
+[Project](project/README.md)
 Mantil project related commands

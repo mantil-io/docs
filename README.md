@@ -49,7 +49,7 @@ We suggest to check out "Getting started" and familiarize yourself with "General
 The documentation is divided into several sections:
 * [Getting Started](getting_started.md)
 * [General Concepts](project_structure.md)
-* [Mantil CLI Commands](commands/index.md)
+* [Mantil CLI Commands](commands/README.md)
 * [Project Templates](templates/excuses.md)
 * [Troubleshooting and support](troubleshooting.md)
 
