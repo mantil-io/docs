@@ -2,10 +2,12 @@
 
 Mantil is a cloud development toolset for Go and AWS Lambda.
 
-Cloud-native development demands a new approach to building, launching and observing cloud apps. Mantil is a 
-modern Go toolset for creating and managing AWS Lambda projects.
+Cloud-native development demands a new approach to building, launching and
+observing cloud apps. Mantil is a modern Go toolset for creating and managing
+AWS Lambda projects.
 
-In this early version, Mantil addresses fundamental issues often encountered while building and launching the apps:
+In this early version, Mantil addresses fundamental issues often encountered
+while building and launching the apps:
 * setting up a new AWS Lambda project from scratch or an existing template
 * setting up a local development environment and tieing everything with AWS
 * deploying the app on every change
@@ -28,9 +30,11 @@ brew install mantil
 
 ## Direct Download (Linux, Windows and Mac)
 
-Below are the available downloads for the latest version of Mantil (0.1.20). Please download the right package for your operating system and architecture.
+Below are the available downloads for the latest version of Mantil. Please
+download the right package for your operating system and architecture.
 
-Mantil is distributed as a single binary. Install Mantil by extracting it and moving it to a directory included in your system's PATH .
+Mantil is distributed as a single binary. Install Mantil by extracting it and
+moving it to a directory included in your system's PATH.
 
 | OS      | Architecture | Download link                                                                                                                |
 | --------| ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -54,16 +58,20 @@ mv mantil /usr/local/bin
 
 # Documentation
 
-We suggest to check out "Getting started" and familiarize yourself with "General Concepts."
+We suggest to check out "Getting started" and familiarize yourself with "General
+Concepts."
 
 The documentation is divided into several sections:
 * [Getting Started](getting_started.md)
 * [General Concepts](project_structure.md)
 * [Mantil CLI Commands](commands/README.md)
-* [Project Templates](templates/excuses.md)
 * [Troubleshooting and support](troubleshooting.md)
+
+Start exploring by creating Mantil project from one of the templates:
+* [ping](https://github.com/mantil-io/template-ping) - Default template for new Mantil projects
+* [excuses](https://github.com/mantil-io/template-excuses) - UI and environment variables showcase
+* [chat](https://github.com/mantil-io/template-chat) - demonstrates WebSocket Mantil API interface
 
 # License
 
 This documentation is licensed under Creative Commons (CC BY-SA 4.0).
-

@@ -1,11 +1,12 @@
-**Mantil uses Open Source components. We acknowledge and are grateful to these developer for their contributions to open source.**
+**Mantil uses Open Source components. We acknowledge and are grateful to these
+developers for their contributions to open source.**
 
 ### Tools
 
 [Go programming language](https://golang.org)    
 [Terraform](https://www.terraform.io)  
 [nats](https://nats.io) & [ngs](https://synadia.com)   
-[Hugo](https://gohugo.io) & [Docsy](https://www.docsy.dev)  
+[Hugo](https://gohugo.io) 
 
 ### Go libraries
 
