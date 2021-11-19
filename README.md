@@ -17,7 +17,7 @@ Please, go and try it! Let us know your thoughts.
 
 # Installation
 
-## Homebrew (Mac)
+## Homebrew (Mac and Linux)
 
 Use [Homebrew](https://brew.sh) to install the latest version:
 
