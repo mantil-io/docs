@@ -1,6 +1,6 @@
 # Mantil
 
-Mantil is a cloud development toolset for Go and AWS Lambda.
+[Mantil](https://www.mantil.com) is a cloud development toolset for Go and AWS Lambda.
 
 Cloud-native development demands a new approach to building, launching and
 observing cloud apps. Mantil is a modern Go toolset for creating and managing
