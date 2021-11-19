@@ -32,13 +32,23 @@ Below are the available downloads for the latest version of Mantil (0.1.20). Ple
 
 Mantil is distributed as a single binary. Install Mantil by extracting it and moving it to a directory included in your system's PATH .
 
-**TODO: Add direct download links for all platforms.**
+| OS      | Architecture | Download link                                                                                                                |
+| --------| ------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Darwin  | arm64        | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Darwin_arm64.tar.gz](mantil_Darwin_arm64.tar.gz)     |
+| Darwin  | x86_64       | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Darwin_x86_64.tar.gz](mantil_Darwin_x86_64.tar.gz)   |
+| Linux   | x86_64       | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Linux_x86_64.tar.gz](mantil_Linux_x86_64.tar.gz)     |
+| Linux   | i386         | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Linux_i386.tar.gz](mantil_Linux_i386.tar.gz)         |
+| Linux   | arm64        | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Linux_arm64.tar.gz](mantil_Linux_arm64.tar.gz)       |
+| Linux   | arm          | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Linux_arm.tar.gz](mantil_Linux_arm.tar.gz)           |
+| Windows | x86_64       | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Windows_x86_64.tar.gz](mantil_Windows_x86_64.tar.gz) |
+| Windows | i386         | [https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Windows_i386.tar.gz](mantil_Windows_i386.tar.gz)     |
+
 
 ### An example for Linux x86_64
 
 ```
-wget https://s3.eu-central-1.amazonaws.com/releases.mantil.io/v{{< current_version >}}/mantil_{{< current_version >}}_Linux_x86_64.tar.gz
-tar xvfz mantil_{{< current_version >}}_Linux_x86_64.tar.gz
+wget https://s3.eu-central-1.amazonaws.com/releases.mantil.io/latest/mantil_Linux_x86_64.tar.gz
+tar xvfz mantil_Linux_x86_64.tar.gz
 mv mantil /usr/local/bin
 ```
 
