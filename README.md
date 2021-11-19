@@ -15,7 +15,7 @@ while building and launching the apps:
 * getting logs instantly
 * supporting multiple development stages and parallel lines of deployment
 
-Please, go and try it! Let us know your thoughts.
+Please, go and try it! [Let us know](mailto:support@mantil.com?subject=Mantil%20feedback) your thoughts.
 
 # Installation
 
@@ -68,7 +68,7 @@ The documentation is divided into several sections:
 * [Troubleshooting and support](troubleshooting.md)
 
 Start exploring by creating Mantil project from one of the templates:
-* [ping](https://github.com/mantil-io/template-ping) - Default template for new Mantil projects
+* [ping](https://github.com/mantil-io/template-ping) - default template for new Mantil projects
 * [excuses](https://github.com/mantil-io/template-excuses) - UI and environment variables showcase
 * [chat](https://github.com/mantil-io/template-chat) - demonstrates WebSocket Mantil API interface
 
