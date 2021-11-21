@@ -1,7 +1,7 @@
 
 # mantil logs
 
-Fetch logs for a specific function/api
+Fetch logs for a specific API
 
 Logs can be filtered using Cloudwatch filter patterns. For more information see:
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/FilterAndPatternSyntax.html
