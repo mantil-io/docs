@@ -27,7 +27,7 @@ $ curl -X POST https://<stage_endpoint_url>/<api>[/method] [-d '<data>'] [-i]
   -d, --data string    Data for the method invoke request
   -i, --include        Include response headers in the output
   -n, --no-logs        Hide lambda execution logs
-  -s, --stage string   Target project stage
+  -s, --stage string   Project stage to target instead of default
 </pre>
 ### EXAMPLES
 <pre>

@@ -16,7 +16,7 @@ Optionally, you can set a method to invoke after every deploy using the --method
 <pre>
   -d, --data string     Data for the method invoke request
   -m, --method string   Method to invoke after deploying changes
-  -s, --stage string    Name of the stage to deploy changes to
+  -s, --stage string    Project stage to target instead of default
   -t, --test            Run tests after deploying changes
 </pre>
 ### GLOBAL OPTIONS

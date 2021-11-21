@@ -15,8 +15,8 @@ If the --tail option is set the process will keep running and polling for new lo
 ### OPTIONS
 <pre>
   -p, --filter-pattern string   Filter pattern to use
-  -s, --since duration          From what time to begin displaying logs, default is 3 hours ago (default 3h0m0s)
-      --stage string            Name of the stage to fetch logs for
+  -f, --from duration           From what time to begin displaying logs, default is 3 hours ago (default 3h0m0s)
+  -s, --stage string            Project stage to target instead of default
   -t, --tail                    Continuously poll for new logs
 </pre>
 ### GLOBAL OPTIONS

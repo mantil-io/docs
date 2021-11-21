@@ -14,8 +14,8 @@ If not specified (--stage option) default project stage is used.
 </pre>
 ### OPTIONS
 <pre>
-  -s, --stage string   Target project stage
-  -u, --url            Show only project api url
+  -s, --stage string   Project stage to target instead of default
+  -u, --url            Show only project API url
 </pre>
 ### EXAMPLES
 <pre>

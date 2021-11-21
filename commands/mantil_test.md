@@ -14,7 +14,7 @@ project api url and runs tests with 'go test -v'.
 ### OPTIONS
 <pre>
   -r, --run string     Run only tests with this pattern in name
-  -s, --stage string   Stage name
+  -s, --stage string   Project stage to target instead of default
 </pre>
 ### GLOBAL OPTIONS
 <pre>

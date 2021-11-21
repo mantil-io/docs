@@ -14,7 +14,7 @@ The --stage option accepts any existing stage and defaults to the default stage 
 </pre>
 ### OPTIONS
 <pre>
-  -s, --stage string   The name of the stage to deploy to
+  -s, --stage string   Project stage to target instead of default
 </pre>
 ### GLOBAL OPTIONS
 <pre>
