@@ -10,15 +10,15 @@ Makes serverless development with Go and AWS Lambda joyful.
 ### COMMANDS
 <pre>
   aws         AWS node subcommand
-  deploy      Deploy updates to stage
+  deploy      Deploy project updates to a stage
   env         Export project environment variables
   generate    Automatically generate code in the project
-  invoke      Invoke api method for current project and stage
+  invoke      Invoke API method on the project stage
   logs        Fetch logs for a specific API
   new         Create a new Mantil project
   report      Make a bug report
   stage       Manage project stages
-  test        Run project integration tests
+  test        Run project tests
   user        Manages Mantil registration
   watch       Watch for file changes and automatically deploy them
 

@@ -1,7 +1,7 @@
 
 # mantil deploy
 
-Deploy updates to stage
+Deploy project updates to a stage
 
 This command checks if any assets, code or configuration have changed since the last deployment
 and applies the necessary updates.

@@ -1,9 +1,9 @@
 
 # mantil test
 
-Run project integration tests
+Run project tests
 
-Project integration tests are pure Go test in [project-root]/test folder.
+Project end to end tests are pure Go test in [project-root]/test folder.
 Mantil sets MANTIL_API_URL environment variable to point to the current
 project api url and runs tests with 'go test -v'.
 

@@ -16,7 +16,7 @@ Mantil command line interface commands.
 | --------| ----------- | 
 | [aws install](mantil_aws_install.md) | Install Mantil into AWS account |
 | [aws uninstall](mantil_aws_uninstall.md) | Uninstall Mantil from AWS account |
-| [aws nodes](mantil_aws_nodes.md) | List Mantil aws nodes |
+| [aws nodes](mantil_aws_nodes.md) | List Mantil AWS nodes |
 
 
 ### Stage related commands
@@ -33,10 +33,10 @@ Mantil command line interface commands.
 | command | description |
 | --------| ----------- | 
 | [new](mantil_new.md) | Create a new Mantil project |
-| [deploy](mantil_deploy.md) | Deploy updates to stage |
-| [invoke](mantil_invoke.md) | Invoke api method for current project and stage |
+| [deploy](mantil_deploy.md) | Deploy project updates to a stage |
+| [invoke](mantil_invoke.md) | Invoke API method on the project stage |
 | [watch](mantil_watch.md) | Watch for file changes and automatically deploy them |
-| [test](mantil_test.md) | Run project integration tests |
+| [test](mantil_test.md) | Run project tests |
 | [logs](mantil_logs.md) | Fetch logs for a specific API |
 | [env](mantil_env.md) | Export project environment variables |
 | [generate api](mantil_generate_api.md) | Generate Go code for a new API |

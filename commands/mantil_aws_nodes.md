@@ -1,7 +1,7 @@
 
 # mantil aws nodes
 
-List Mantil aws nodes
+List Mantil AWS nodes
 
 ### USAGE
 <pre>

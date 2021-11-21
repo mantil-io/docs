@@ -9,9 +9,9 @@ AWS node subcommand
 </pre>
 ### COMMANDS
 <pre>
-  install     Install Mantil into AWS account
-  nodes       List Mantil aws nodes
-  uninstall   Uninstall Mantil from AWS account
+  install     Install Mantil node into AWS account
+  nodes       List Mantil AWS nodes
+  uninstall   Uninstall Mantil node from AWS account
 
   Use "mantil aws [command] --help" for more information about a command.
 </pre>
