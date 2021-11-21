@@ -18,7 +18,7 @@ This behaviour can be disabled using the --force option.
 </pre>
 ### ARGUMENTS
 <pre>
-  [node-name]  Mantil node name reference.
+  [node-name]  Mantil node name.
                If not provided default name dev will be used for the first node.</pre>
 ### OPTIONS
 <pre>
