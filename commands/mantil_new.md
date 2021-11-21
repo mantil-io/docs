@@ -27,6 +27,18 @@ This can be changed by setting the --module-name option.
       --from string          Name of the template or URL of the repository that will be used as one
       --module-name string   Replace module name and import paths
 </pre>
+### EXAMPLES
+<pre>
+  ==&gt; new project with default structure:
+  $ mantil new my-project
+
+  ==&gt; new project from built-in template:
+  $ mantil new my-project --from excuses
+
+  ==&gt; new project from any available template:
+  $ mantil new my-project --from https://github.com/mantil-io/template-excuses
+
+</pre>
 ### GLOBAL OPTIONS
 <pre>
       --help       Show command help

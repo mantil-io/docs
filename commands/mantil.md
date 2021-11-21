@@ -9,7 +9,7 @@ Makes serverless development with Go and AWS Lambda joyful.
 </pre>
 ### COMMANDS
 <pre>
-  aws         AWS node subcommand
+  aws         AWS subcommand
   deploy      Deploy project updates to a stage
   env         Export project environment variables
   generate    Automatically generate code in the project

@@ -1,7 +1,7 @@
 
 # mantil aws
 
-AWS node subcommand
+AWS subcommand
 
 ### USAGE
 <pre>
