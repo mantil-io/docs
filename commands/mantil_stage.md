@@ -3,10 +3,10 @@
 
 Manage project stages
 
-A stage represents a named deployment of the project. Each stage creates a set of resources
-which can be managed and configured separately.
-
-Stages can be deployed to any node in the workspace.
+A stage represents a named deployment of the project. A project can have
+multiple stages. A stage for each developer, integration stage, production...
+Stage is placed on a node. Different stages in the same project can be placed on
+different nodes.
 
 ### USAGE
 <pre>

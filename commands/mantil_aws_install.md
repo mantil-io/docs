@@ -16,7 +16,8 @@ and what account will be managed by command.
 ### ARGUMENTS
 <pre>
   [node-name]  Mantil node name.
-               If not provided default name dev will be used for the first node.</pre>
+               If not provided default name dev will be used for the first node.
+</pre>
 ### OPTIONS
 <pre>
       --aws-access-key-id string       Access key ID for the AWS account, must be used with the

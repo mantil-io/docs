@@ -3,7 +3,7 @@
 
 Create a new Mantil project
 
-This command will initialize a new Mantil project from the source provided with the --from option.
+Creates a new Mantil project from the source provided with the --from option.
 The source can either be an existing git repository or one of the predefined templates:
 ping    - https://github.com/mantil-io/template-ping
 excuses - https://github.com/mantil-io/template-excuses
@@ -11,12 +11,16 @@ chat    - https://github.com/mantil-io/template-chat
 
 If no source is provided it will default to the template "ping".
 
-By default, the go module name of the initialized project will be the project name.
+By default, the Go module name of the initialized project will be the project name.
 This can be changed by setting the --module-name option.
 
 ### USAGE
 <pre>
   mantil new &lt;project&gt; [options]
+</pre>
+### ARGUMENTS
+<pre>
+  &lt;project&gt;  Name of the new project.
 </pre>
 ### OPTIONS
 <pre>

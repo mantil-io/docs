@@ -3,10 +3,11 @@
 
 Watch for file changes and automatically deploy them
 
-This command will start a watcher process that listens to changes in any .go files in the project directory
-and automatically deploys changes to the stage provided via the --stage option.
+This command will start a watcher process that listens to changes in any *.go files
+in the project directory and automatically deploys changes to the stage.
 
-Optionally, you can set a method to invoke after every deploy using the --method, --data and --test options.
+You can set a method to invoke after every deploy using the --method and --data options.
+Or run tests after every deploy with --test options.
 
 ### USAGE
 <pre>

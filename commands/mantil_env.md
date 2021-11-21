@@ -2,10 +2,12 @@
 # mantil env
 
 Export project environment variables
-for use in other shell commands.
 
-Mantil project is determined by the current shell folder. It can be anywhere in
-the project tree.
+Then you can use that variables in other shell comands.
+
+Mantil project is determined by the current shell folder.
+You can be anywhere in the project tree.
+
 If not specified (--stage option) default project stage is used.
 
 ### USAGE

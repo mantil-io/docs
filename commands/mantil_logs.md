@@ -3,14 +3,19 @@
 
 Fetch logs for a specific API
 
-Logs can be filtered using Cloudwatch filter patterns. For more information see:
+Logs can be filtered using Cloudwatch filter patterns.
+For more information see:
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/FilterAndPatternSyntax.html
 
 If the --tail option is set the process will keep running and polling for new logs every second.
 
 ### USAGE
 <pre>
-  mantil logs &lt;api-name&gt; [options]
+  mantil logs &lt;api&gt; [options]
+</pre>
+### ARGUMENTS
+<pre>
+  &lt;api&gt;      Name of the API. Your APIs are in /api folder.
 </pre>
 ### OPTIONS
 <pre>

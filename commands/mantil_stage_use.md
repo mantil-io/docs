@@ -7,6 +7,10 @@ Set default project stage
 <pre>
   mantil stage use &lt;stage&gt;
 </pre>
+### ARGUMENTS
+<pre>
+  &lt;stage&gt;  Name of the stage which will be default.
+</pre>
 ### GLOBAL OPTIONS
 <pre>
       --help       Show command help

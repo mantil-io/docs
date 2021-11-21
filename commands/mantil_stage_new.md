@@ -3,14 +3,19 @@
 
 Create a new stage
 
-This command will create a new stage with the given name. If the name is left empty it will default to "dev".
+This command will create a new stage with the given name.
+If the name is left empty it will default to "dev".
 
-If only one node is set up in the workspace, the stage will be deployed to that node by default.
+If only one node is set up, the stage will be deployed to that node by default.
 Otherwise, you will be asked to pick a node. The node can also be specified via the --node option.
 
 ### USAGE
 <pre>
   mantil stage new &lt;name&gt; [options]
+</pre>
+### ARGUMENTS
+<pre>
+  &lt;name&gt;  Name for the new stage.
 </pre>
 ### OPTIONS
 <pre>
