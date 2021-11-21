@@ -7,7 +7,7 @@ registration.
 
 ### USAGE
 <pre>
-  mantil user activate <activation-token>
+  mantil user activate &lt;activation-token&gt;
 </pre>
 ### GLOBAL OPTIONS
 <pre>

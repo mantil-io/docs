@@ -16,11 +16,11 @@ function log line is preffixed with λ symbol. You can hide that logs with the
 --no-log option.
 
 This is a convenience method and provides similar output to calling:
-$ curl -X POST https://<stage_endpoint_url>/<api>[/method] [-d '<data>'] [-i]
+$ curl -X POST https://&lt;stage_endpoint_url&gt;/&lt;api&gt;[/method] [-d '&lt;data&gt;'] [-i]
 
 ### USAGE
 <pre>
-  mantil invoke <api>[/method] [options]
+  mantil invoke &lt;api&gt;[/method] [options]
 </pre>
 ### OPTIONS
 <pre>
@@ -31,17 +31,17 @@ $ curl -X POST https://<stage_endpoint_url>/<api>[/method] [-d '<data>'] [-i]
 </pre>
 ### EXAMPLES
 <pre>
-==> invoke Default method in Ping api
+==&gt; invoke Default method in Ping api
 $ mantil invoke ping
 200 OK
 pong
 
-==> invoke Hello method in Ping api with 'Mantil' data
+==&gt; invoke Hello method in Ping api with 'Mantil' data
 $ mantil invoke ping/hello -d 'Mantil'
 200 OK
 Hello, Mantil
 
-==> invoke ReqRsp method in Ping api with json data payload
+==&gt; invoke ReqRsp method in Ping api with json data payload
 $ mantil invoke ping/reqrsp -d '{"name":"Mantil"}'
 200 OK
 {

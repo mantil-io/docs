@@ -10,7 +10,7 @@ If the --tail option is set the process will keep running and polling for new lo
 
 ### USAGE
 <pre>
-  mantil logs <api-name> [options]
+  mantil logs &lt;api-name&gt; [options]
 </pre>
 ### OPTIONS
 <pre>

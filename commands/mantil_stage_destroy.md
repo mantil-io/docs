@@ -11,7 +11,7 @@ This behavior can be disabled using the --force option.
 
 ### USAGE
 <pre>
-  mantil stage destroy <name> [options]
+  mantil stage destroy &lt;name&gt; [options]
 </pre>
 ### OPTIONS
 <pre>

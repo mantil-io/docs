@@ -5,7 +5,7 @@ Set default project stage
 
 ### USAGE
 <pre>
-  mantil stage use <stage>
+  mantil stage use &lt;stage&gt;
 </pre>
 ### GLOBAL OPTIONS
 <pre>

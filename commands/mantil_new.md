@@ -16,7 +16,7 @@ This can be changed by setting the --module-name option.
 
 ### USAGE
 <pre>
-  mantil new <project> [options]
+  mantil new &lt;project&gt; [options]
 </pre>
 ### OPTIONS
 <pre>
