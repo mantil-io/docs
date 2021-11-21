@@ -1,3 +1,4 @@
+
 # mantil new
 
 Initializes a new Mantil project
@@ -5,7 +6,8 @@ Initializes a new Mantil project
 This command will initialize a new Mantil project from the source provided with the --from option.
 The source can either be an existing git repository or one of the predefined templates:
 excuses - https://github.com/mantil-io/template-excuses
-ping - https://github.com/mantil-io/go-mantil-template
+chat - https://github.com/mantil-io/template-chat
+ping - https://github.com/mantil-io/template-ping
 
 If no source is provided it will default to the template "ping".
 
@@ -28,6 +30,6 @@ This can be changed by setting the --module-name option.
 </pre>
 ### LEARN MORE
 <pre>
-  Visit https://team.mantil.com/docs/ to learn more.
-  For further support contact us at hello@mantil.com.
+  Visit https://github.com/mantil-io/docs to learn more.
+  For further support contact us at support@mantil.com.
 </pre>

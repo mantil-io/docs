@@ -1,3 +1,4 @@
+
 # mantil deploy
 
 Deploys updates to stages
@@ -22,6 +23,6 @@ The --stage option accepts any existing stage and defaults to the default stage 
 </pre>
 ### LEARN MORE
 <pre>
-  Visit https://team.mantil.com/docs/ to learn more.
-  For further support contact us at hello@mantil.com.
+  Visit https://github.com/mantil-io/docs to learn more.
+  For further support contact us at support@mantil.com.
 </pre>

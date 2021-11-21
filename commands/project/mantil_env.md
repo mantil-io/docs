@@ -1,3 +1,4 @@
+
 # mantil env
 
 Export project environment variables
@@ -31,6 +32,6 @@ If not specified (--stage option) default project stage is used.
 </pre>
 ### LEARN MORE
 <pre>
-  Visit https://team.mantil.com/docs/ to learn more.
-  For further support contact us at hello@mantil.com.
+  Visit https://github.com/mantil-io/docs to learn more.
+  For further support contact us at support@mantil.com.
 </pre>

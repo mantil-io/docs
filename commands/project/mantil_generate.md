@@ -1,3 +1,4 @@
+
 # mantil generate
 
 Automatically generate code in the project
@@ -19,6 +20,6 @@ Automatically generate code in the project
 </pre>
 ### LEARN MORE
 <pre>
-  Visit https://team.mantil.com/docs/ to learn more.
-  For further support contact us at hello@mantil.com.
+  Visit https://github.com/mantil-io/docs to learn more.
+  For further support contact us at support@mantil.com.
 </pre>

@@ -1,3 +1,4 @@
+
 # mantil watch
 
 Watch for file changes and automatically deploy them
@@ -25,6 +26,6 @@ Optionally, you can set a method to invoke after every deploy using the --method
 </pre>
 ### LEARN MORE
 <pre>
-  Visit https://team.mantil.com/docs/ to learn more.
-  For further support contact us at hello@mantil.com.
+  Visit https://github.com/mantil-io/docs to learn more.
+  For further support contact us at support@mantil.com.
 </pre>

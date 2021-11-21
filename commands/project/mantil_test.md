@@ -1,3 +1,4 @@
+
 # mantil test
 
 Run project integration tests
@@ -22,6 +23,6 @@ project api url and runs tests with 'go test -v'.
 </pre>
 ### LEARN MORE
 <pre>
-  Visit https://team.mantil.com/docs/ to learn more.
-  For further support contact us at hello@mantil.com.
+  Visit https://github.com/mantil-io/docs to learn more.
+  For further support contact us at support@mantil.com.
 </pre>
