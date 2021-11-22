@@ -6,38 +6,38 @@ Mantil command line interface commands.
 
 | command | description |
 | --------| ----------- | 
-| [user register](mantil_user_register.md) | Initiate Mantil registration |
-| [user activate](mantil_user_activate.md) | Finalize Mantil registration |
+| [user register](mantil_user_register.md) | Initiates Mantil registration |
+| [user activate](mantil_user_activate.md) | Finalizes Mantil registration |
 
 
 ### AWS account related commands
 
 | command | description |
 | --------| ----------- | 
-| [aws install](mantil_aws_install.md) | Install Mantil into AWS account |
-| [aws uninstall](mantil_aws_uninstall.md) | Uninstall Mantil from AWS account |
+| [aws install](mantil_aws_install.md) | Installs Mantil into AWS account |
+| [aws uninstall](mantil_aws_uninstall.md) | Uninstalls Mantil from AWS account |
 | [aws nodes](mantil_aws_nodes.md) | List Mantil AWS nodes |
-| [aws resources](mantil_aws_resources.md) | Show AWS resources created by Mantil |
+| [aws resources](mantil_aws_resources.md) | Shows AWS resources created by Mantil |
 
 
 ### Stage related commands
 
 | command | description |
 | --------| ----------- | 
-| [stage new](mantil_stage_new.md) | Create a new stage |
-| [stage destroy](mantil_stage_destroy.md) | Destroy a stage |
-| [stage list](mantil_stage_list.md) | List stages in project |
-| [stage use](mantil_stage_use.md) | Set default project stage |
+| [stage new](mantil_stage_new.md) | Creates a new stage |
+| [stage destroy](mantil_stage_destroy.md) | Destroys a stage |
+| [stage list](mantil_stage_list.md) | Lists stages in project |
+| [stage use](mantil_stage_use.md) | Sets default project stage |
 
 ### Project related commands
 
 | command | description |
 | --------| ----------- | 
-| [new](mantil_new.md) | Create a new Mantil project |
-| [deploy](mantil_deploy.md) | Deploy project updates to a stage |
-| [invoke](mantil_invoke.md) | Invoke API method on the project stage |
-| [watch](mantil_watch.md) | Watch for file changes and automatically deploy them |
-| [test](mantil_test.md) | Run project tests |
-| [logs](mantil_logs.md) | Fetch logs for a specific API |
-| [env](mantil_env.md) | Export project environment variables |
-| [generate api](mantil_generate_api.md) | Generate Go code for a new API |
+| [new](mantil_new.md) | Creates a new Mantil project |
+| [deploy](mantil_deploy.md) | Deploys project updates to a stage |
+| [invoke](mantil_invoke.md) | Invokes API method on the project stage |
+| [watch](mantil_watch.md) | Watches for file changes and automatically deploy them |
+| [test](mantil_test.md) | Runs project tests |
+| [logs](mantil_logs.md) | Fetches logs for a specific API |
+| [env](mantil_env.md) | Exports project environment variables |
+| [generate api](mantil_generate_api.md) | Generates Go code for a new API |

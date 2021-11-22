@@ -1,7 +1,7 @@
 
 # mantil aws resources
 
-Show AWS resources created by Mantil
+Shows AWS resources created by Mantil
 
 When executed inside Mantil project command will show resources created
 for current project stage and node of that stage.
