@@ -64,6 +64,7 @@ Concepts."
 The documentation is divided into several sections:
 * [Getting Started](getting_started.md)
 * [General Concepts](concepts.md)
+* [Using a Mantil API](api.md)
 * [Mantil CLI Commands](commands/README.md)
 * [Troubleshooting and support](troubleshooting.md)
 
