@@ -77,7 +77,7 @@ mantil stage new development
 
 This operation usually takes about 1-2 minute to complete.\
 Upon completion we have fully functional demo API on the AWS infrastructure.
-Demo is build from [this](https://github.com/mantil-io/go-mantil-template/)
+Demo is build from [this](https://github.com/mantil-io/template-ping)
 template project.
 
 Code of the ping API is located in api/ping/ping.go file.\
@@ -88,7 +88,7 @@ mantil env --url
 ```
 
 To execute
-[Default](https://github.com/mantil-io/go-mantil-template/blob/62598d733a664f059b4c9726196cd3ecd4ae3b2e/api/ping/ping.go#L19)
+[Default](https://github.com/mantil-io/template-ping/blob/b7200b4663116e26edde4076bde4729b9cb3f077/api/ping/ping.go#L19)
 method in ping API you can run:
 
 ```
@@ -109,7 +109,7 @@ application.
 
 ## Exploring demo project
 
-[Hello](https://github.com/mantil-io/go-mantil-template/blob/62598d733a664f059b4c9726196cd3ecd4ae3b2e/api/ping/ping.go#L26)
+[Hello](https://github.com/mantil-io/template-ping/blob/b7200b4663116e26edde4076bde4729b9cb3f077/api/ping/ping.go#L26)
 method is here to demonstrate calling method with some data:
 
 ```
@@ -125,7 +125,7 @@ or if you prefer curl:
 Hello, World%
 ```
 
-[ReqRsp](https://github.com/mantil-io/go-mantil-template/blob/master/api/ping/ping.go#L41)
+[ReqRsp](https://github.com/mantil-io/template-ping/blob/b7200b4663116e26edde4076bde4729b9cb3f077/api/ping/ping.go#L41)
 demonstrates JSON formatted request/response:
 
 ```
@@ -137,7 +137,7 @@ demonstrates JSON formatted request/response:
 ```
 
 The
-[logs](https://github.com/mantil-io/go-mantil-template/blob/f336682a2301503bb0fb2a406736b7f751462302/api/ping/ping.go#L61)
+[logs](https://github.com/mantil-io/template-ping/blob/b7200b4663116e26edde4076bde4729b9cb3f077/api/ping/ping.go#L59)
 method demonstrates display of function logs with invoke command. If your Lambda
 function is using logging, the log lines are captured and shown before command
 output:

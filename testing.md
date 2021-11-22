@@ -4,7 +4,7 @@ Your API's in Mantil are pure Go code. They don't have anything AWS or Lambda
 specific. Mantil provides all infrastructure burden. Unit testing you API'a are
 like unit testing any other Go struct.  
 Our example project ping provides also example of [trivial API
-test](https://github.com/mantil-io/go-mantil-template/blob/master/api/ping/ping_test.go).
+test](https://github.com/mantil-io/template-ping/blob/master/api/ping/ping_test.go).
 It is there to show idea of where and how to unit test API's.
 
 ### Integration tests
@@ -25,7 +25,7 @@ options. It really depends on project.
 ### End to end tests
 
 Mantil project holds end to end tests in `/test` folder (from the project root).
-[Here](https://github.com/mantil-io/go-mantil-template/blob/master/test/ping_test.go)
+[Here](https://github.com/mantil-io/template-ping/blob/master/test/ping_test.go)
 is example of an end to end test for our ping project. You can run it with
 `mantil test`. It uses current project stage to run HTTP request against
 deployed API's. 
