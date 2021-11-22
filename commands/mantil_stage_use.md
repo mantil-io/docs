@@ -1,7 +1,7 @@
 
 # mantil stage use
 
-Set default project stage
+Sets default project stage
 
 ### USAGE
 <pre>

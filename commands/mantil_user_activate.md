@@ -1,7 +1,7 @@
 
 # mantil user activate
 
-Finalize Mantil registration
+Finalizes Mantil registration
 
 Mantil is in early beta and access is granted only to registered users. With the
 activation token received in your email this command finalizes Mantil

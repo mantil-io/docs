@@ -1,7 +1,7 @@
 
 # mantil stage new
 
-Create a new stage
+Creates a new stage
 
 This command will create a new stage with the given name.
 If the name is left empty it will default to "dev".

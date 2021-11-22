@@ -1,7 +1,7 @@
 
 # mantil aws install
 
-Install Mantil node into AWS account
+Installs Mantil node into AWS account
 
 Command will install node into AWS account. Node consists of few Lambda function, API Gateway and S3 bucket.
 You must provide credentials for Mantil to access your AWS account.

@@ -1,7 +1,7 @@
 
 # mantil generate api
 
-Generate Go code for new API
+Generates Go code for new API
 
 This command generates all the boilerplate code necessary to get started writing a new API.
 An API is a lambda function with at least one (default) request/response method.

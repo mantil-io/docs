@@ -1,7 +1,7 @@
 
 # mantil new
 
-Create a new Mantil project
+Creates a new Mantil project
 
 Creates a new Mantil project from the source provided with the --from option.
 The source can either be an existing git repository or one of the predefined templates:

@@ -17,6 +17,7 @@ Mantil command line interface commands.
 | [aws install](mantil_aws_install.md) | Install Mantil into AWS account |
 | [aws uninstall](mantil_aws_uninstall.md) | Uninstall Mantil from AWS account |
 | [aws nodes](mantil_aws_nodes.md) | List Mantil AWS nodes |
+| [aws nodes](mantil_aws_resources.md) | Show AWS resources created by Mantil |
 
 
 ### Stage related commands

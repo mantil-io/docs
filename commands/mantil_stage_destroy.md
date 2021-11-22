@@ -1,7 +1,7 @@
 
 # mantil stage destroy
 
-Destroy a stage
+Destroys a stage
 
 This command will destroy all resources belonging to a stage.
 Optionally, you can set the --all option to destroy all stages of a project.

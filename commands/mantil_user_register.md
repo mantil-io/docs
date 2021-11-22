@@ -1,7 +1,7 @@
 
 # mantil user register
 
- Initiate Mantil registration
+ Initiates Mantil registration
 
 Mantil is in early beta and access is granted only to registered users.
 This command initiates the signup process for Mantil application.

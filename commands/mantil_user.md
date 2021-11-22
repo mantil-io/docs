@@ -13,8 +13,8 @@ token will be sent.
 </pre>
 ### COMMANDS
 <pre>
-  activate    Finalize Mantil registration
-  register    Initiate Mantil registration
+  activate    Finalizes Mantil registration
+  register    Initiates Mantil registration
 
   Use "mantil user [command] --help" for more information about a command.
 </pre>

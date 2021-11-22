@@ -1,7 +1,7 @@
 
 # mantil invoke
 
-Invoke API method on the project stage
+Invokes API method on the project stage
 
 Makes HTTP request to the gateway endpoint of the project stage. That invokes
 Lambda function of that project api. If API method is not specified default

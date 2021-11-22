@@ -1,7 +1,7 @@
 
 # mantil env
 
-Export project environment variables
+Exports project environment variables
 
 Then you can use that variables in other shell comands.
 

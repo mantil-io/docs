@@ -1,7 +1,7 @@
 
 # mantil generate
 
-Automatically generate code in the project
+Automatically generates code in the project
 
 ### USAGE
 <pre>
@@ -9,7 +9,7 @@ Automatically generate code in the project
 </pre>
 ### COMMANDS
 <pre>
-  api         Generate Go code for a new API
+  api         Generates Go code for a new API
 
   Use "mantil generate [command] --help" for more information about a command.
 </pre>

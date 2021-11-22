@@ -1,7 +1,7 @@
 
 # mantil aws uninstall
 
-Uninstall Mantil node from AWS account
+Uninstalls Mantil node from AWS account
 
 Command will remove node from AWS account.
 You must provide credentials for Mantil to access your AWS account.

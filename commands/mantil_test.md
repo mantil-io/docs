@@ -1,7 +1,7 @@
 
 # mantil test
 
-Run project tests
+Runs project tests
 
 Project end to end tests are pure Go test in [project-root]/test folder.
 Mantil sets MANTIL_API_URL environment variable to point to the current

@@ -1,7 +1,7 @@
 
 # mantil stage
 
-Manage project stages
+Manages project stages
 
 A stage represents a named deployment of the project. A project can have
 multiple stages. A stage for each developer, integration stage, production...
@@ -14,10 +14,10 @@ different nodes.
 </pre>
 ### COMMANDS
 <pre>
-  destroy     Destroy a stage
-  list        List stages in project
-  new         Create a new stage
-  use         Set default project stage
+  destroy     Destroys a stage
+  list        Lists stages in project
+  new         Creates a new stage
+  use         Sets default project stage
 
   Use "mantil stage [command] --help" for more information about a command.
 </pre>

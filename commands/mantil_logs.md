@@ -1,7 +1,7 @@
 
 # mantil logs
 
-Fetch logs for a specific API
+Fetches logs for a specific API
 
 Logs can be filtered using Cloudwatch filter patterns.
 For more information see:

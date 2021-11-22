@@ -1,7 +1,7 @@
 
 # mantil stage list
 
-List stages in project
+Lists stages in project
 
 ### USAGE
 <pre>
