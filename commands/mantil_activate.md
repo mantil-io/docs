@@ -4,8 +4,8 @@
 Activates Mantil
 
 As Mantil is in early beta we would like to understand more about your use case.
-Please fill out the survey at www.mantil.com to receive your activation token.
-Once the activation token is checked you will get full access to Mantil.
+Please fill out the survey at www.mantil.com to receive your activation code.
+Once the activation code is checked you will get full access to Mantil.
 
 ### USAGE
 <pre>
