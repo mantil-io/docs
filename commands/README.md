@@ -6,8 +6,7 @@ Mantil command line interface commands.
 
 | command | description |
 | --------| ----------- | 
-| [user register](mantil_user_register.md) | Initiates Mantil registration |
-| [user activate](mantil_user_activate.md) | Finalizes Mantil registration |
+| [activate](mantil_activate.md) | Activates Mantil |
 
 
 ### AWS account related commands

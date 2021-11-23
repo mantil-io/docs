@@ -19,8 +19,8 @@ This behavior can be disabled using the --force option.
 </pre>
 ### OPTIONS
 <pre>
-      --all     Destroy all stages
-      --force   Don't ask for confirmation
+      --all   Destroy all stages
+  -y, --yes   Assume 'yes' as answer to all prompts
 </pre>
 ### GLOBAL OPTIONS
 <pre>

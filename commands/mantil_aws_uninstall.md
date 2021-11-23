@@ -33,7 +33,8 @@ This behaviour can be disabled using the --force option.
       --aws-secret-access-key string   Secret access key for the AWS account, must be used with the
                                        aws-access-key-id and aws-region options
       --dry-run                        Don't start install/uninstall just show what credentials will be used
-      --force                          Don't ask for confirmation
+      --force                          Force uninstall even if it will result in orphaned stages
+  -y, --yes                            Assume 'yes' as answer to all prompts
 </pre>
 ### EXAMPLES
 <pre>

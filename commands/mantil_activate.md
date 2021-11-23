@@ -1,15 +1,15 @@
 
-# mantil user activate
+# mantil activate
 
-Finalizes Mantil registration
+Activates Mantil
 
-Mantil is in early beta and access is granted only to registered users. With the
-activation token received in your email this command finalizes Mantil
-registration.
+As Mantil is in early beta we would like to understand more about your use case.
+Please fill out the survey at www.mantil.com to receive your activation token.
+Once the activation token is checked you will get full access to Mantil.
 
 ### USAGE
 <pre>
-  mantil user activate &lt;activation-code&gt;
+  mantil activate &lt;activation-code&gt;
 </pre>
 ### ARGUMENTS
 <pre>

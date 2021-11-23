@@ -9,6 +9,7 @@ Makes serverless development with Go and AWS Lambda joyful.
 </pre>
 ### COMMANDS
 <pre>
+  activate    Activates Mantil
   aws         AWS subcommand
   deploy      Deploys project updates to a stage
   env         Exports project environment variables
@@ -19,7 +20,6 @@ Makes serverless development with Go and AWS Lambda joyful.
   report      Makes a bug report
   stage       Manages project stages
   test        Runs project tests
-  user        Manages Mantil registration
   watch       Watches for file changes and automatically deploy them
 
   Use "mantil [command] --help" for more information about a command.
