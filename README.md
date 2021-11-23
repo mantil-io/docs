@@ -58,7 +58,7 @@ mv mantil /usr/local/bin
 
 # Activation
 
-Mantil is in closed early beta. After installing Mantil CLI you will need to [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ) to get full access. This is important to us to understand your use case and it will help us make Mantil even better. 
+Mantil is in closed early beta. After installing Mantil CLI you will need to [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ#source=GitHub_RM) to get full access. This is important to us to understand your use case and it will help us make Mantil even better. 
 
 Once the survey is filled you will receive an activation token in the provided email. Use it in the terminal to finalize your Mantil activation:
 ```
