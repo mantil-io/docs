@@ -1,3 +1,13 @@
+## Activation 
+
+To start exploring Mantil you will need to firstly [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ). This is important to us to understand your use case and it will help us make Mantil even better. 
+
+Once the survey is filled you will receive an activation token in the provided email. Use it in the terminal to finalize your Mantil activation:
+```
+mantil activate <activation-token>
+```
+And that's it. Now when Mantil is activated you can start building your AWS Lambda-based Go backends quicker than ever!
+
 ## Setup
 
 Beside Mantil cli you will need access to an AWS account. AWS credentials are

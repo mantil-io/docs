@@ -56,6 +56,17 @@ tar xvfz mantil_Linux_x86_64.tar.gz
 mv mantil /usr/local/bin
 ```
 
+# Activation
+
+Mantil is in closed early beta. After installing Mantil CLI you will need to [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ) to get full access. This is important to us to understand your use case and it will help us make Mantil even better. 
+
+Once the survey is filled you will receive an activation token in the provided email. Use it in the terminal to finalize your Mantil activation:
+```
+mantil activate <activation-token>
+```
+And that's it. Now when Mantil is activated you can start building your AWS Lambda-based Go backends quicker than ever!
+
+
 # Documentation
 
 We suggest to check out "Getting started" and familiarize yourself with "General
