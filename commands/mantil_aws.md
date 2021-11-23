@@ -10,7 +10,7 @@ AWS subcommand
 ### COMMANDS
 <pre>
   install     Installs Mantil node into AWS account
-  nodes       List Mantil AWS nodes
+  nodes       Shows Mantil AWS nodes
   resources   Shows AWS resources created by Mantil
   uninstall   Uninstalls Mantil node from AWS account
 
