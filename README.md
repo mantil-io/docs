@@ -60,9 +60,9 @@ mv mantil /usr/local/bin
 
 Mantil is in closed early beta. After installing Mantil CLI you will need to [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ#source=GitHub_RM) to get full access. This is important to us to understand your use case and it will help us make Mantil even better. 
 
-Once the survey is filled you will receive an activation token in the provided email. Use it in the terminal to finalize your Mantil activation:
+Once the survey is filled you will receive an activation code in the provided email. Use it in the terminal to finalize your Mantil activation:
 ```
-mantil activate <activation-token>
+mantil activate <activation-code>
 ```
 And that's it. Now when Mantil is activated you can start building your AWS Lambda-based Go backends quicker than ever!
 
