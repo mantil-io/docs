@@ -1,6 +1,6 @@
 ## Activation 
 
-To start exploring Mantil you will need to firstly [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ#source=GitHub_GS). This is important to us to understand your use case and it will help us make Mantil even better. 
+To start exploring Mantil you will need to firstly [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ#source=GitHub_GS). This is important for us to better understand your use case and it will help us further improve Mantil. 
 
 Once the survey is filled you will receive an activation code in the provided email. Use it in the terminal to finalize your Mantil activation:
 ```
