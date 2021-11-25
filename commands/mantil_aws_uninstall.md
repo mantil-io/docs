@@ -10,7 +10,7 @@ There is --dry-run option which will show you what credentials will be used
 and what account will be managed by command.
 
 By default you will be asked to confirm the destruction.
-This behaviour can be disabled using the --force option.
+This behaviour can be disabled using the --yes option.
 
 ### USAGE
 <pre>
