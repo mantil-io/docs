@@ -1,13 +1,3 @@
-## Activation 
-
-To start exploring Mantil you will need to firstly [answer a few short questions](https://xai8bc1fisj.typeform.com/to/QU5wd7lQ#source=GitHub_GS). This is important for us to better understand your use case and it will help us further improve Mantil. 
-
-Once the survey is filled you will receive an activation code in the provided email. Use it in the terminal to finalize your Mantil activation:
-```
-mantil activate <activation-code>
-```
-And that's it. Now when Mantil is activated you can start building your AWS Lambda-based Go backends quicker than ever!
-
 ## Setup
 
 Beside Mantil cli you will need access to an AWS account. AWS credentials are
@@ -52,7 +42,7 @@ will call Mantil Node, or just Node.
 ## Your first Mantil project
 
 Run `mantil new` command to create project structure on the local computer. It
-creates [project structure](#mantil-project-structure) with demo ping
+creates [project structure](https://github.com/mantil-io/docs/blob/main/concepts.md#project) with demo ping
 API which we will use later in this guide.
 
 For example when I run `mantil new my-project` command in my ~/mantil folder
@@ -147,7 +137,7 @@ demonstrates JSON formatted request/response:
 ```
 
 The
-[logs](https://github.com/mantil-io/template-ping/blob/b7200b4663116e26edde4076bde4729b9cb3f077/api/ping/ping.go#L59)
+[logs](https://github.com/mantil-io/template-ping/blob/b7200b4663116e26edde4076bde4729b9cb3f077/api/ping/ping.go#L62)
 method demonstrates display of function logs with invoke command. If your Lambda
 function is using logging, the log lines are captured and shown before command
 output:
