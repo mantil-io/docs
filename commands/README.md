@@ -40,3 +40,9 @@ Mantil command line interface commands.
 | [logs](mantil_logs.md) | Fetches logs for a specific API |
 | [env](mantil_env.md) | Exports project environment variables |
 | [generate api](mantil_generate_api.md) | Generates Go code for a new API |
+
+### Feedback related commands
+
+| command | description |
+| --------| ----------- | 
+| [report](mantil_report.md) | Makes a bug report |
