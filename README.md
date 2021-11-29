@@ -76,6 +76,7 @@ The documentation is divided into several sections:
 * [Getting Started](getting_started.md)
 * [General Concepts](concepts.md)
 * [Using a Mantil API](api.md)
+* [API Configuration](api_configuration.md)
 * [Mantil CLI Commands](commands/README.md)
 * [Troubleshooting and support](troubleshooting.md)
 
