@@ -26,5 +26,6 @@ developers for their contributions to open source.**
 [github.com/stretchr/testify](https://github.com/stretchr/testify)   
 [gopkg.in/yaml.v2](https://gopkg.in/yaml.v2)   
 [github.com/nats-io/*](https://github.com/nats-io/)  
+[github.com/mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
 
 
