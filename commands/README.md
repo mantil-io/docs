@@ -14,6 +14,7 @@ Mantil command line interface commands.
 | command | description |
 | --------| ----------- | 
 | [aws install](mantil_aws_install.md) | Installs Mantil into AWS account |
+| [aws upgrade](mantil_aws_upgrade.md) | Upgrades Mantil on AWS account |
 | [aws uninstall](mantil_aws_uninstall.md) | Uninstalls Mantil from AWS account |
 | [aws nodes](mantil_aws_nodes.md) | Shows Mantil AWS nodes |
 | [aws resources](mantil_aws_resources.md) | Shows AWS resources created by Mantil |
