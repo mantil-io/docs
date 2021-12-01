@@ -1,25 +1,22 @@
 
-# mantil aws uninstall
+# mantil aws upgrade
 
-Uninstalls Mantil node from AWS account
+Upgrades Mantil node on AWS account
 
-Command will remove node from AWS account.
+Command will upgrade node on your AWS account to reflect the current version of the CLI.
 You must provide credentials for Mantil to access your AWS account.
 
 There is --dry-run option which will show you what credentials will be used
 and what account will be managed by command.
 
-By default you will be asked to confirm the destruction.
-This behaviour can be disabled using the --yes option.
-
 ### USAGE
 <pre>
-  mantil aws uninstall [node-name] [options]
+  mantil aws upgrade [node-name] [options]
 </pre>
 ### ARGUMENTS
 <pre>
   [node-name]  Mantil node name.
-               If not provided default name dev will be used for destruction.
+               If not provided default name dev will be used for upgrade.
 </pre>
 ### OPTIONS
 <pre>
@@ -33,8 +30,6 @@ This behaviour can be disabled using the --yes option.
       --aws-secret-access-key string   Secret access key for the AWS account, must be used with the
                                        aws-access-key-id and aws-region options
       --dry-run                        Don't start install/uninstall just show what credentials will be used
-      --force                          Force uninstall even if it will result in orphaned stages
-  -y, --yes                            Assume 'yes' as answer to all prompts
 </pre>
 ### EXAMPLES
 <pre>
@@ -42,7 +37,7 @@ This behaviour can be disabled using the --yes option.
   There are three ways to provide credentials.
 
   ==&gt; specifiy access keys as arguments:
-  $ mantil aws uninstall --aws-access-key-id=AKIAIOSFODNN7EXAMPLE \
+  $ mantil aws upgrade --aws-access-key-id=AKIAIOSFODNN7EXAMPLE \
                        --aws-secret-access-key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY \
                        --aws-region=us-east-1
 
@@ -50,12 +45,12 @@ This behaviour can be disabled using the --yes option.
   $ export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
   $ export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
   $ export AWS_DEFAULT_REGION=us-east-1
-  $ mantil aws uninstall --aws-env
+  $ mantil aws upgrade --aws-env
 
   Reference: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html
 
   ==&gt; use your named AWS profile form ~/.aws/config
-  $ mantil aws uninstall --aws-profile=my-named-profile
+  $ mantil aws upgrade --aws-profile=my-named-profile
 
   Reference: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
 </pre>

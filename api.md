@@ -14,9 +14,28 @@ mantil invoke <api_name>/<method_name>
 ```
 to invoke a specific method.
 
+Invoke accepts `--data` option which can be used to send additional data in the request. Data can be either basic type, such as string, or JSON, depending on the parameters of your method.
+```
+mantil invoke <api_name>/<method_name> --data <data>
+```
+
 You can also get the endpoint using `mantil env -u` and invoke it directly, for example:
 ```
 curl -X POST $(mantil env -u)/<api_name>/<method_name>
+```
+
+In the case of GET request query parameters will be mapped to the parameters of your method with appropriate type conversions.
+For example, method with following struct as a parameter:
+```
+type Person struct {
+    Name   string
+    Age    int
+    Amount float64
+}
+```
+can be invoked with following request:
+```
+curl -X GET $(mantil env -u)/<api_name>/<method_name>?name=John&age=25&amount=50.4
 ```
 
 ## WebSocket
