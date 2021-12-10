@@ -2,13 +2,6 @@
 
 Mantil command line interface commands.
 
-### Singup process related commands
-
-| command | description |
-| --------| ----------- | 
-| [activate](mantil_activate.md) | Activates Mantil |
-
-
 ### AWS account related commands
 
 | command | description |
