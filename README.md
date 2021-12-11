@@ -1,3 +1,7 @@
+
+⚠️  Note: this documentation is deprecated, please check [mantil repository](https://github.com/mantil-io/mantil) for latest version.
+
+
 # Mantil
 
 [Mantil](https://www.mantil.com) is a cloud development toolset for Go and AWS Lambda.
